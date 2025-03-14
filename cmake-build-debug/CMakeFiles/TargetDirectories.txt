@@ -1,0 +1,3 @@
+/home/mikey/Documents/School/303/A2/cmake-build-debug/CMakeFiles/A2.dir
+/home/mikey/Documents/School/303/A2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mikey/Documents/School/303/A2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
