@@ -8,7 +8,6 @@ struct Node {
     int data;
     Node* next;
 
-public:
     Node(const int data, Node* next) : data(data), next(next) {}
 };
 
