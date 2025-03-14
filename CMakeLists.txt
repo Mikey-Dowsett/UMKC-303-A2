@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(A2 main.cpp
         LinkedList.cpp
-        LinkedList.h)
+        LinkedList.h
+        Stack.cpp
+        Stack.h)
